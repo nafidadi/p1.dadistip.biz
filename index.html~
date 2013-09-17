@@ -1,0 +1,49 @@
+<!DOCTYPE html >
+<html>
+	<head>
+		<title>Introducing Ashenafi</title>
+		<link href="css/style.css" type="text/css" rel="stylesheet"/>
+	</head>
+
+	<body>
+		<h1>About Me and Myself</h1>
+		<div id="main">
+			<p>
+				My name is Ashenafi Dadi. I'm planning to pursue
+				<a href="http://www.extension.harvard.edu/degrees-certificates/information-technology">
+				the Graduate Program in Information Technology</a> with concentration in
+				<em>Information Management Systems</em> at <a href="http://www.extension.harvard.edu">
+				Harvard Extension School</a>.
+			</p>
+
+			<p> Below are listed the courses I took at at <a href="http://www.extension.harvard.edu">
+				Harvard Extension School</a> so far:
+			</p>
+			<ul>
+				<li>CSCI E-50a: <a href="http://www.fas.harvard.edu/~libe50a/">Introduction to Computer Science Using Java I</a></li>
+				<li>CSCI E-50b: <a href="http://www.fas.harvard.edu/~libe50b/">Introduction to Computer Science Using Java II</a></li>
+				<li>CSCI E-160: <a href="http://courses.dce.harvard.edu/~cscie160/">Java for Distributed Computing</a></li>
+				<li>CSCI E-268: <a href="http://www.fas.harvard.edu/~cscie268/">Database and Information Management Systems</a></li>
+				<li>CSCI E-175: <a href="http://isites.harvard.edu/icb/icb.do?keyword=k89198">Cloud Computing and Software as a Service</a></li>
+				<li>CSCI E-12: <a href="http://isites.harvard.edu/icb/icb.do?keyword=cscie12-2013">Fundamentals of Website Development</a></li>
+			</ul>
+			<p>
+			Well, this semester I'm taking the course CSCI E-15: <a href="http://www.dwa15.com">Dynamic Web Applications</a>. 
+			I hope it is going to be an exciting semester.
+			</p>
+		
+			<p>
+			My favorite code editors are:
+			<ul>
+				<li><em>Notepad++</em> when working in a Windows environment</li>
+				<li><em>Vim/jedit</em> when working in a Linux environment</li>
+			</ul>	
+			</p>
+		</div>
+		
+		<div id="footer">
+			<p><a href="http://validator.w3.org/check/referer">Validate Markup</a>
+			&nbsp;|&nbsp;<a href="http://jigsaw.w3.org/css-validator/check/referer">Validate CSS</a></p>
+		</div>
+	</body>
+</html>
